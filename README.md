@@ -1,8 +1,5 @@
-# Atlassian Connect App using Express
+## ACE with React.
 
-Congratulations!
-You've successfully created an Atlassian Connect App using the Express web application framework.
+This repository contains a HelloWorld app with atlassian connect express (ACE) and Reactjs.
 
-## What's next?
-
-[Read the docs](https://bitbucket.org/atlassian/atlassian-connect-express/src/master/README.md).
+Here is the link to the blogpost with explanation.
